@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "685186338765",
+    "project_id": "rentacar-68f1e",
+    "storage_bucket": "rentacar-68f1e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685186338765:android:1425808689ab30c7a6fe84",
+        "android_client_info": {
+          "package_name": "com.example.firebase_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685186338765-8i0s8v5pl84flldsk4g6mpnm8vine0p7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_app",
+            "certificate_hash": "f60a7f408edd387023931900f05d68471da1bd61"
+          }
+        },
+        {
+          "client_id": "685186338765-6pi0gr98pgmgbbae9at6ft6srs38dsoi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpB6uv3eRvsa2BwOTQaww-7FYvBkG2Lgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685186338765-6pi0gr98pgmgbbae9at6ft6srs38dsoi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "685186338765-esn2oi10vugg7rpcbbjtuvi3euddclge.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

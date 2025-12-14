@@ -1,0 +1,39 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "rentacar-68f1e",
+          "appId": "1:685186338765:android:1425808689ab30c7a6fe84",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "rentacar-68f1e",
+          "configurations": {
+            "android": "1:685186338765:android:1425808689ab30c7a6fe84",
+            "ios": "1:685186338765:ios:dce3eda0561f5a27a6fe84",
+            "macos": "1:685186338765:ios:dce3eda0561f5a27a6fe84",
+            "web": "1:685186338765:web:3786bef502849caba6fe84",
+            "windows": "1:685186338765:web:55e13491de1c6c9fa6fe84"
+          }
+        }
+      }
+    }
+  },
+  "functions": {
+    "source": "functions"
+  },
+  "hosting": {
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  },
+  "firestore": {
+    "indexes": "firestore.indexes.json"
+  }
+}
